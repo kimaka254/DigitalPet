@@ -43,16 +43,19 @@ DigitalPet/ │ ├── pet.py # Contains the Pet class and all pet behaviors 
 
 ## 🖼️ Example Output
 
-Then reference it in your README like this:
 
-![Output Screenshot](screenshots/output-example.png)
+![Output Screenshot](output1.png)
+
+![Output Screenshot](output2.png)
+
+![Output Screenshot](output3.png)
 
 ---
 
 ## ✨ Author
 
-**Elsy**  
-Built as part of a **PLP Python OOP Challenge**.
+**Elsy Kimaka, BSc**  
+Built as part of the **PLP Python OOP Challenge**.
 
 
 
